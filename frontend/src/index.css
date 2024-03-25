@@ -1,0 +1,4 @@
+/* imports everything we need for tailwind to work */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
